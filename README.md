@@ -29,7 +29,7 @@ Built using Leaflet.js, the platform features responsive design and interactive 
 
 ## Related Publication
 
-This visualization accompanies the paper - Anonymous Authors _Commuting in the heat: A comprehensive review of extreme temperature impacts on transport users, behavioral adaptations and mitigation strategies._ Manuscript submitted for publication in _Transport Reviews_. This paper presents a comprehensive analysis of extreme heat impacts on transportation systems and effective adaptation strategies. The visualization helps addressing the paper's central research questions by revealing various heat vulnerability and adaptive responses worldwide.
+This visualization accompanies the paper - Anonymous Authors _Commuting in the heat: A comprehensive review of extreme temperature impacts on transport users, behavioral adaptations and mitigation strategies._ Manuscript submitted for publication in _Sustainable Cities and Society_. This paper presents a comprehensive analysis of extreme heat impacts on transportation systems and effective adaptation strategies. The visualization helps addressing the paper's central research questions by revealing various heat vulnerability and adaptive responses worldwide.
 
 ## How to Use
 1. Open the HTML file in any modern web browser
